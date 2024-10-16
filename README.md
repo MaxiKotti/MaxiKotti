@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxiKotti
 - 👀 I’m interested in running an AI on a RasPi
-- 🌱 I’m currently learning Biometrical engineering 
+- 🌱 I’m currently studying Biomedical Engineering 
 - 💞️ I’m looking to collaborate on AI image processing 
 - 📫 How to reach me ...
 
